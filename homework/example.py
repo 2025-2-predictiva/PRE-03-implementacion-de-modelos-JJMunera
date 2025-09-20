@@ -2,7 +2,7 @@
 
 # pylint: disable=import-error
 
-import Linear_regression  # type: ignore
+import linear_regression  # type: ignore
 import pandas as pd  # type: ignore
 
 
@@ -28,4 +28,5 @@ def main():
 
 if __name__ == "__main__":
     main()
-
+    
+    
